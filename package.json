@@ -1,7 +1,7 @@
 {
   "name": "side-by-side",
   "version": "1.0.0",
-  "description": "Utility to print contents of file side-by-side for comparision in command line interface",
+  "description": "Utility to print contents of file side-by-side for comparison in command line interface",
   "main": "bin/sidebyside.js",
   "bin": {
     "side-by-side": "sidebyside.js"
