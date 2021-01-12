@@ -1,0 +1,25 @@
+{
+  "name": "side-by-side",
+  "version": "1.0.0",
+  "description": "Utility to print contents of file side-by-side for comparision in command line interface",
+  "main": "bin/sidebyside.js",
+  "bin": {
+    "side-by-side": "sidebyside.js"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chai": "^4.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Girish M",
+  "license": "ISC"
+}
