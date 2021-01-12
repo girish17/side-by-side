@@ -9,6 +9,10 @@
   "directories": {
     "test": "test"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://git.sr.ht:~girishm/side-by-side"
+  },
   "dependencies": {
     "axios": "^0.21.1",
     "chai": "^4.2.0",
